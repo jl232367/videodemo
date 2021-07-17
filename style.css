@@ -1,0 +1,69 @@
+
+.header {
+    width: 90%;
+    height: 20%;
+    border: 2px;
+    border-style: solid;
+    margin: auto;
+}
+.container {
+    width: 90%;
+    height: 90%;
+    border: 5px;
+    border-style: solid;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.videocontainer {
+    max-width: 75%;
+    max-height: 70%;
+    width: 75%;
+    height: 70%;
+    border: 2px;
+    border-style: solid;
+    margin: auto;
+    padding: auto;
+    margin-top: 2.5%;
+    margin-bottom: 5%;
+}
+.video {
+    max-width: 100%;
+    max-height: 100%;
+    width: 100%;
+
+    margin: 0 auto;
+    padding: auto;
+    display: block;
+}
+.recomendedvideos {
+    max-height: 70%;
+    max-width: 20%;
+    height: 60%;
+    width: 30%;
+    margin: 0 auto;
+    
+    padding: auto;
+    display: block;
+    border: 2px;
+    border-style: solid;
+    margin: auto;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+}
+.recomendedvideos img {
+    max-width: 150px;
+}
+.videoinfocontainer {
+    max-height: 40%;
+    max-width: 60%;
+    height: 40%;
+    width: 60%;
+    padding: auto;
+    display: block;
+    border: 2px;
+    border-style: solid;
+    margin: 0 auto;
+    margin-top: 2.5%;
+    margin-left: 0;
+}
